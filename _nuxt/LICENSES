@@ -95,6 +95,79 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 
+/*!
+ * Vue.js v2.7.14
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+
+/**
+ * @license Fraction.js v4.3.5 31/08/2023
+ * https://www.xarg.org/2014/03/rational-numbers-in-javascript/
+ *
+ * Copyright (c) 2023, Robert Eisele (robert@raw.org)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ **/
+
+
+/*!
+ * html2canvas 1.4.1 <https://html2canvas.hertzen.com>
+ * Copyright (c) 2022 Niklas von Hertzen <https://hertzen.com>
+ * Released under MIT License
+ */
+
+/*! *****************************************************************************
+    Copyright (c) Microsoft Corporation.
+
+    Permission to use, copy, modify, and/or distribute this software for any
+    purpose with or without fee is hereby granted.
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+    REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+    AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+    INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+    LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+    OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+    PERFORMANCE OF THIS SOFTWARE.
+    ***************************************************************************** */
+
+
+/**
+  * vue-class-component v7.0.1
+  * (c) 2015-present Evan You
+  * @license MIT
+  */
+
+
+/*!
+ * Quill Editor v1.3.7
+ * https://quilljs.com/
+ * Copyright (c) 2014, Jason Chen
+ * Copyright (c) 2013, salesforce.com
+ */
+
+
+/*!
+ * Block below copied from Protovis: http://mbostock.github.com/protovis/
+ * Copyright 2010 Stanford Visualization Group
+ * Licensed under the BSD License: http://www.opensource.org/licenses/bsd-license.php
+ * @license
+ */
+
+/*!
+ * quantize.js Copyright 2008 Nick Rabinowitz.
+ * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+ * @license
+ */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -164,79 +237,6 @@ object-assign
  */
 
 //! invalid number
-
-
-/**
- * @license Fraction.js v4.3.5 31/08/2023
- * https://www.xarg.org/2014/03/rational-numbers-in-javascript/
- *
- * Copyright (c) 2023, Robert Eisele (robert@raw.org)
- * Dual licensed under the MIT or GPL Version 2 licenses.
- **/
-
-
-/*!
- * html2canvas 1.4.1 <https://html2canvas.hertzen.com>
- * Copyright (c) 2022 Niklas von Hertzen <https://hertzen.com>
- * Released under MIT License
- */
-
-/*! *****************************************************************************
-    Copyright (c) Microsoft Corporation.
-
-    Permission to use, copy, modify, and/or distribute this software for any
-    purpose with or without fee is hereby granted.
-
-    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-    REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-    AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-    INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-    LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-    OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-    PERFORMANCE OF THIS SOFTWARE.
-    ***************************************************************************** */
-
-
-/**
-  * vue-class-component v7.0.1
-  * (c) 2015-present Evan You
-  * @license MIT
-  */
-
-
-/*!
- * Quill Editor v1.3.7
- * https://quilljs.com/
- * Copyright (c) 2014, Jason Chen
- * Copyright (c) 2013, salesforce.com
- */
-
-
-/*!
- * Vue.js v2.7.14
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
- */
-
-/*!
- * vuex v3.6.2
- * (c) 2021 Evan You
- * @license MIT
- */
-
-
-/*!
- * Block below copied from Protovis: http://mbostock.github.com/protovis/
- * Copyright 2010 Stanford Visualization Group
- * Licensed under the BSD License: http://www.opensource.org/licenses/bsd-license.php
- * @license
- */
-
-/*!
- * quantize.js Copyright 2008 Nick Rabinowitz.
- * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
- * @license
- */
 
 
 /*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
